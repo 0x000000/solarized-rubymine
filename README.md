@@ -19,7 +19,7 @@
 ### How to install
 
 RubyMine stores all customization in its configuration folder.
-Just copy **True_Solarized_Light.xml** to the folder located:
+Just copy **[True_Solarized_Light.xml](https://raw.github.com/0x000000/solarized-rubymine/master/True_Solarized_Light.xml)** to the folder located:
 
 * on Mac : ~/Library/Preferences/RubyMine&lt;**VERSION**&gt;/colors
 * on Linux : ~/.RubyMine&lt;**VERSION**&gt;/config/colors
