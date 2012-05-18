@@ -1,12 +1,10 @@
-## True Solarized theme for RubyMine
-
-[Solarized theme](http://ethanschoonover.com/solarized)
+### True [Solarized theme](http://ethanschoonover.com/solarized) for RubyMine
 
 ![Ruby Sampe](https://github.com/0x000000/solarized-rubymine/raw/master/sample.png)
 
 ### Features
 
-* Support for all RubyMine langs:
+* Support for all RubyMine languages:
   * Ruby
   * JavaScript
   * CoffeeScript
@@ -20,10 +18,11 @@
 
 ### How to install
 
-RubyMine stores all customization in its configuration folder. The folder is located:
+RubyMine stores all customization in its configuration folder.
+Just copy **True_Solarized_Light.xml** to the folder located:
 
-* on Mac: ~/Library/Preferences/RubyMine<VERSION>
-* on Linux: ~/.RubyMine<VERSION>/config
+* on Mac : ~/Library/Preferences/RubyMine&lt;**VERSION**&gt;/colors
+* on Linux : ~/.RubyMine&lt;**VERSION**&gt;/config/colors
 * on Windows
-  * WinXP: C:\Documents and Settings\<user>\.RubyMine<VERSION>\config
-  * Vista: C:\Users\<user>\.RubyMine<VERSION>\config
+  * WinXP: C:\Documents and Settings\\&lt;**USER**&gt;\.RubyMine&lt;**VERSION**&gt;\config\colors
+  * Vista: C:\Users\\&lt;**USER**&gt;\.RubyMine&lt;**VERSION**&gt;\config\colors
