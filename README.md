@@ -1,6 +1,6 @@
 ### True [Solarized theme](http://ethanschoonover.com/solarized) for RubyMine
 
-![Ruby Sampe](https://github.com/0x000000/solarized-rubymine/raw/master/sample.png)
+![Logo](http://ethanschoonover.com/solarized/img/solarized-yinyang.png)
 
 ### Features
 
@@ -14,6 +14,16 @@
 
 * Author's color scheme was used
 * Designed especially for RubyMine
+
+### Samples
+
+#### Ruby
+
+![Ruby Sampe](https://github.com/0x000000/solarized-rubymine/raw/master/ruby-sample.png)
+
+#### CoffeeScript
+
+![CoffeeScript Sampe](https://github.com/0x000000/solarized-rubymine/raw/master/coffee-sample.png)
 
 
 ### How to install
